@@ -1,9 +1,9 @@
 # -AI-Assisted-Python-Scripting-for-ArcGIS-Pro
  AI-Assisted Python Scripting for ArcGIS Pro 
 
- 
 
-https://github.com/user-attachments/assets/6834700d-6705-4a1c-8c2e-9106d4ee7627
+https://youtu.be/TTzZUwj5rY8
+ 
 
 
 ![1](https://github.com/user-attachments/assets/9a974cda-f9a4-420c-bffc-d7229179b7d5)
